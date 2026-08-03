@@ -1,0 +1,6 @@
+{
+  "name": "AI Personal Finance Advisor",
+  "description": "Smart AI-powered personal finance management with receipt scanning, multi-account tracking, interactive analytics, goal planning, and instant financial reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
